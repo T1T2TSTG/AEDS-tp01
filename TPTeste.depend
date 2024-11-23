@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1731865770 source:c:\users\hpkil\documents\aids\testetad\tpteste\listasondas.c
+	<stdlib.h>
+	<stdio.h>
+	"ListaSondas.h"
+
+1731865774 c:\users\hpkil\documents\aids\testetad\tpteste\listasondas.h
+	"TADSonda.h"
+
+1732391855 c:\users\hpkil\documents\aids\testetad\tpteste\tadsonda.h
+	"tadcompartimentos.h"
+
+1731865795 c:\users\hpkil\documents\aids\testetad\tpteste\tadcompartimentos.h
+	"rochamineral.h"
+	<stdlib.h>
+
+1732028476 c:\users\hpkil\documents\aids\testetad\tpteste\rochamineral.h
+	"TADlistaminerais.h"
+
+1731865801 c:\users\hpkil\documents\aids\testetad\tpteste\tadlistaminerais.h
+	"TADmineral.h"
+
+1732391855 c:\users\hpkil\documents\aids\testetad\tpteste\tadmineral.h
+	<stdio.h>
+
+1732029196 source:c:\users\hpkil\documents\aids\testetad\tpteste\rochamineral.c
+	<stdio.h>
+	<string.h>
+	"rochamineral.h"
+
+1731865793 source:c:\users\hpkil\documents\aids\testetad\tpteste\tadcompartimentos.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"tadcompartimentos.h"
+
+1731865799 source:c:\users\hpkil\documents\aids\testetad\tpteste\tadlistaminerais.c
+	<stdio.h>
+	<string.h>
+	"TADlistaminerais.h"
+
+1731865804 source:c:\users\hpkil\documents\aids\testetad\tpteste\tadmineral.c
+	"Tadmineral.h"
+	<string.h>
+
+1732022808 source:c:\users\hpkil\documents\aids\testetad\tpteste\tadsonda.c
+	"./TADSonda.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1732391253 source:c:\users\hpkil\documents\aids\testetad\tpteste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"teste.h"
+
+1731815707 c:\users\hpkil\documents\aids\testetad\tpteste\sistema.h
+	"ListaSondas.h"
+
+1731819336 source:c:\users\hpkil\documents\aids\testetad\tpteste\sistema.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"sistema.h"
+
+1731871744 source:c:\users\hpkil\documents\aids\testetad\tpteste\teste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"teste.h"
+
+1731868456 c:\users\hpkil\documents\aids\testetad\tpteste\teste.h
+	"ListaSondas.h"
+
+1731865770 source:c:\users\hpkil\documents\github\aeds\listasondas.c
+	<stdlib.h>
+	<stdio.h>
+	"ListaSondas.h"
+
+1731865774 c:\users\hpkil\documents\github\aeds\listasondas.h
+	"TADSonda.h"
+
+1732391855 c:\users\hpkil\documents\github\aeds\tadsonda.h
+	"tadcompartimentos.h"
+
+1731865795 c:\users\hpkil\documents\github\aeds\tadcompartimentos.h
+	"rochamineral.h"
+	<stdlib.h>
+
+1732028476 c:\users\hpkil\documents\github\aeds\rochamineral.h
+	"TADlistaminerais.h"
+
+1731865801 c:\users\hpkil\documents\github\aeds\tadlistaminerais.h
+	"TADmineral.h"
+
+1732391855 c:\users\hpkil\documents\github\aeds\tadmineral.h
+	<stdio.h>
+
+1732391253 source:c:\users\hpkil\documents\github\aeds\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"teste.h"
+
+1731868456 c:\users\hpkil\documents\github\aeds\teste.h
+	"ListaSondas.h"
+
+1732029196 source:c:\users\hpkil\documents\github\aeds\rochamineral.c
+	<stdio.h>
+	<string.h>
+	"rochamineral.h"
+
+1731865793 source:c:\users\hpkil\documents\github\aeds\tadcompartimentos.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"tadcompartimentos.h"
+
+1731865799 source:c:\users\hpkil\documents\github\aeds\tadlistaminerais.c
+	<stdio.h>
+	<string.h>
+	"TADlistaminerais.h"
+
+1731865804 source:c:\users\hpkil\documents\github\aeds\tadmineral.c
+	"Tadmineral.h"
+	<string.h>
+
+1732393468 source:c:\users\hpkil\documents\github\aeds\tadsonda.c
+	"./TADSonda.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
