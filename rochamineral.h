@@ -21,7 +21,7 @@ char* get_data(mineral* milist);
 void set_Identificador(mineral* milist,int Identificador);
 void set_peso(mineral* milist, float peso);
 void set_longitude(mineral* milist, float longitude);
-void set_latitute(mineral* milist, float latitude);
+void set_latitude(mineral* milist, float latitude);
 void set_data(mineral* milist, char *data);
 
 void listminerais(mineral* milist,Mineral* listminerais);
